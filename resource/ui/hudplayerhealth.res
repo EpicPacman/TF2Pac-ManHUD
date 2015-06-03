@@ -86,7 +86,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"ContinuumRegular16"
+		"font"			"GroteskRegular16"
 		"fgcolor"		"TanDark"
 	}								
 	"PlayerStatusBleedImage"

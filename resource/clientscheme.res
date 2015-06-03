@@ -2398,61 +2398,61 @@ Scheme
 
 	// My Custom Fonts
 
-		ContinuumRegular12
+		GroteskRegular12
 		{
 			"1"
 			{
-				"name"		"Continuum Medium"
+				"name"		"Typo Grotesk Rounded"
 				"tall"		"12"
 				"antialias" "1"
 			}
 		}
 
-		ContinuumRegular16
+		GroteskRegular16
 		{
 			"1"
 			{
-				"name"		"Continuum Medium"
+				"name"		"Typo Grotesk Rounded"
 				"tall"		"16"
 				"antialias" "1"
 			}
 		}
 
-		ContinuumRegular24
+		GroteskRegular24
 		{
 			"1"
 			{
-				"name"		"Continuum Medium"
+				"name"		"Typo Grotesk Rounded"
 				"tall"		"24"
 				"antialias" "1"
 			}
 		}
 
-		ContinuumRegular32
+		GroteskRegular32
 		{
 			"1"
 			{
-				"name"		"Continuum Medium"
+				"name"		"Typo Grotesk Rounded"
 				"tall"		"32"
 				"antialias" "1"
 			}
 		}
 
-		ContinuumRegular36
+		GroteskRegular36
 		{
 			"1"
 			{
-				"name"		"Continuum Medium"
+				"name"		"Typo Grotesk Rounded"
 				"tall"		"36"
 				"antialias" "1"
 			}
 		}
 
-		ContinuumRegular48
+		Groteskegular48
 		{
 			"1"
 			{
-				"name"		"Continuum Medium"
+				"name"		"Typo Grotesk Rounded"
 				"tall"		"48"
 				"antialias" "1"
 			}
@@ -4365,18 +4365,13 @@ Scheme
 		}
 		"7"
 		{
-			"font" "resource/fonts/contm.ttf"
-			"name" "Continuum Medium"
+			"font" "resource/fonts/Typo Grotesk Rounded Demo.otf"
+			"name" "Typo Grotesk Rounded"
 		}			
 		"8"
 		{
-			"font" "resource/fonts/contb.ttf"
-			"name" "Continuum Light"
-		}	
-		"9"
-		{
-			"font" "resource/fonts/contl.ttf"
-			"name" "Continuum Bold"
+			"font" "resource/fonts/Typo Grotesk Rounded Light Demo.otf"
+			"name" "Typo Grotesk Rounded Light"
 		}	
 	}
 }
